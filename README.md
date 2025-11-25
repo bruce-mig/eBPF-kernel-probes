@@ -56,8 +56,8 @@ sudo dnf install -y bcc-tools python3-bcc
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ebpf-project.git
-cd ebpf-project
+git clone https://github.com/bruce-mig/eBPF-kernel-probes.git
+cd eBPF-kernel-probes
 ```
 
 ### Create Virtual Environment
@@ -175,7 +175,7 @@ sudo dnf install kernel-devel-$(uname -r)
 
 ## License
 
-[Your License Here]
+[MIT](LICENSE)
 
 ## Resources
 
