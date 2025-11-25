@@ -94,7 +94,7 @@ uv pip install -r requirements.txt
 # You should see (ebpf-venv) in your prompt
 
 # Run the eBPF watcher
-sudo python main.py
+sudo python3 <python-file-name>.py
 ```
 
 **Note:** eBPF programs typically require root privileges to interact with the kernel.
